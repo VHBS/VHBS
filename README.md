@@ -47,11 +47,12 @@
 </div>
 
 <br />
-
 <div align="center">
-  <img height="140px" width="45%" alt="VHBS GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VHBS&show_icons=true&title_color=ff00bc&icon_color=00a6ff&bg_color=1f1f1f&text_color=ffffff&border_color=0c1a25&include_all_commits=true" />
-  <img height="140px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhbs&layout=compact&show_icons=true&title_color=ff00bc&icon_color=00a6ff&bg_color=1f1f1f&text_color=ffffff&border_color=0c1a25"/>
+  <a href="https://github.com/vhbs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhbs&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 <hr />
 
 
