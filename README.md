@@ -11,7 +11,7 @@
 </div>
 
 ###  Sobre mim!
-- 📖 Desenvolvedor Web FullStack pela [Trybe](https://www.betrybe.com/?utm_source=trybe.com.br).  
+- 📖 Desenvolvedor Web FullStack.
 - 👧🏻 Pai da princesa Juju.
 - 🎧 Música está sempre presente. 
 - 🎮 Apreciador de jogos online, principalmente os competitivos.
